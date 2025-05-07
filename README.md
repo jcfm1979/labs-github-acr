@@ -21,6 +21,8 @@ The BrezyWeather is a simple .NET Core web app that is used as a demo project in
 - Familiarity with ACR and App Service in Azure portal.
 - Basic knowledge of GitHub Actions will be helpful.
 - GitHub account to fork and clone code.
+-ejemplo
+
 
 ## Learn more and enroll
 https://www.udemy.com/labs/deploy-a-containerized-weather-app-using-github-actions-and-azure-container-registry
